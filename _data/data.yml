@@ -100,19 +100,19 @@ skills:
      - name: HTML5 & CSS
         level: 95%
         
-      - name: Javascript 
+     - name: Javascript 
         level: 95%
 
-      - name: PHP & MySQL
+     - name: PHP & MySQL
         level: 50%
         
-      - name: Laravel
+     - name: Laravel
         level: 50%
         
-      - name: Flutter
+     - name: Flutter
         level: 80%
 
-      - name: Linux & macOS
+     - name: Linux & macOS
         level: 95%
         
 footer: >
