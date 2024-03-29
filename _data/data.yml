@@ -157,36 +157,24 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: R Programming
-        level: 80%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Google App Script
+      - name: Javascript 
         level: 98%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Servlet, JSP & JavaBean
-        level: 85%
-
       - name: PHP & MySQL
-        level: 98%
+        level: 50%
         
       - name: Laravel
-        level: 75%
+        level: 50%
         
       - name: React Native
-        level: 98%
+        level: 10%
         
       - name: Flutter
         level: 85%
-        
-      - name: Cloud Computing
-        level: 80%
-        
+
       - name: Linux & macOS
         level: 95%
         
