@@ -30,6 +30,9 @@ sidebar:
       - idiom: English
         level: Professional
 
+      - idiom: Thai
+        level: Beginner
+
     interests:
       - item: Coding
         link:
@@ -37,13 +40,10 @@ sidebar:
       - item: Photography
         link:
 
-      - item: Jogging
+      - item: Golf
         link:
       
-      - item: Swimming
-        link:
-      
-      - item: Cooking
+      - item: Tennis
         link:
 
 career-profile:
