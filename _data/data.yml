@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Muhammad Azhad bin Muhammad Nasim
     tagline: A Researcher, Mobile & Full Stack Developer
-    avatar: azhadpng.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: azhad-profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email:  azhad.nasim07@gmail.com
