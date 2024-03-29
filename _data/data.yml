@@ -79,79 +79,28 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Assistant Professor
-      time: 2014 - Present
-      company: International Islamic University Malaysia, Kuala Lumpur
+    - role: Assistant Technical and Module
+      time: Feb 2023 - Dec 2023
+      company: SIG Cybersecurity KICT IIUM
       details: |
-        Responsible for undergraduate computer programming teaching & learning
-        especially in Web Programing and Mobile Application Development courses. Responsible for postgraduate
-        teaching and learning especially in Tools for Data Science course. 
-        Conducted research on e-Learning & Education, Information Security Assurance and Smart Data Analytics.
-        Designed new courses for the faculty of Information & Communication Technology inline with IT Industry.
-        Previous administrative positions: 
-          - Deputy Director Centre for Professional Development (e-Learning) (2022 - Present)
-          - IT Coordinator (2019 - 2022)
-          - Industrial Attachment Coordinator (2017 - 2018)
-          - Final Year Project Coordinator (2015 - 2017)
-    - role: Senior Lecturer
-      time: 2007 - 2009
-      company: International Islamic University Malaysia, Kuala Lumpur
+        Responsibilities:
+        - Assist other bureaus in producing content of events
+        - Brainstorm the content of activities 
+        - Assist in producing and preparing materials for workshops and other events
+        - Organize workshops for improving students' technical skills 
+        - Assist in managing the technical part of an event
+        Previous programme positions: 
+          - Assistant Programe Manager for CTF Workshop : Introduction to Capture The Flag(CTF)
+          - Program Manager for CTF : Race for Flag Competition
+    - role: Meeting Coordinator
+      time: September 2023
+      company: Even Block JMB Bukit Mas
       details: |
-        Responsible for teaching and learning in computer programming courses
-        including C/C++, Java, Data Structure & Internet Applications. 
-        Previous administrative positions:
-          - IT Coordinator (2008)
-          - Final Year Project Coordinator (2007)
-          - ACMICPC Coach (2007 - 2009)
-    - role: Assistant Lecturer
-      time: 2004 - 2006
-      company: International Islamic University Malaysia, Kuala Lumpur
-      details: |
-        Assisted lecturers in class assessments, replacements & administrative work.
-        Developed the following applications to assist administrative work & daily operation:
-          - Final Year Project System (VBA)
-          - Faculty Website (PHP & MySQL)
-    - role: Application Developer
-      time: 2001 - 2003
-      company: KAF Seagroatt & Campbell Securities Sdn. Bhd., Kuala Lumpur
-      details: |
-        Developed various web applications using Active Server Pages (ASP) to assist daily internal 
-        operation and developed several stand alone modules using Visual Basic for Applications (VBA) for money broking system.
-    - role: Software Engineer
-      time: 2000 - 2001
-      company: KUB Sistem Sdn. Bhd., Kuala Lumpur
-      details: |
-        Developed various web modules for e-commerce portal by utilizing J2EE architecture. Specialized in designing 
-        front end interface by using Java Server Pages (JSP), JavaBean and JavaScript.
-projects:
-    title: Projects
-    intro: >
-      Below are the list of research and application development projects. Most of the research projects are funded by 
-      International Islamic University Malaysia and Ministry of Higher Education, Malaysia. Most of the application 
-      development projects are self-initiative projects.
-    assignments:
-      - title: FRGS, 2022
-        link: "#"
-        tagline: "Data Mining of Malay Medical Manuscripts and Construction of a Database of Malay Medicine With Interventions for Covid-19-like Symptoms as a Focus - Co-Researcher Fundamental Research Grant Scheme (FRGS)"
-        
-      - title: OPOM, 2022
-        link: "#"
-        tagline: "A Laboratory Information System and Database of Oral Pathology and Oral Medicine (OPOM) - Consultancy Work for Universiti Malaya"
-        
-publications:
-    title: Publications
-    intro: |
-      Below are the list of research publications including conference, journal and book chapter.
-    papers:
-      - title: "Understanding academic misconduct among IIUM students during RTL phase: the role of social presence & religiosity"
-        link: "http://irep.iium.edu.my/94639/"
-        authors: "Tengku Mohd Azzman, Tengku Siti Aisha and Sedu, Nerawi and Abu Seman, Muhamad Sadry"
-        conference: "3rd Communication Research Seminar 2021 (CORENA21)"
-        
-      - title: "The role of web engineering in e-learning application development: a review study"
-        link: "https://ijeecs.iaescore.com/index.php/IJEECS/article/view/27830"
-        authors: "Mohd Ali, Hussin Ahmad Hamzah and Abu Seman, Muhamad Sadry"
-        conference: "Indonesian Journal of Electrical Engineering and Computer Science (IJEECS), 27 (3). pp. 1576-1588. ISSN 2502-4752 E-ISSN 2502-4760"
+        Responsible for organizing and managing meeting within an community such as:
+          - Coordinating Extraordinary General Meeting for the community
+          - Paste notice of meeting
+          - Maintaning PA system
+          - Handling registration of residents
         
 skills:
     title: Skills &amp; Proficiency
