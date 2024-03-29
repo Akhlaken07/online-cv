@@ -59,25 +59,9 @@ education:
     - degree: Bachelor of Information Technology (Honours)
       university: International Islamic University Malaysia, Kuala Lumpur
       time: 2020 - 2025
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
     - degree: Science (Module II)
       university: Selangor Matriculation College, Banting Selangor, Malaysia
       time: 2017 - 2019
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
 experiences:
     - role: Assistant Technical and Module
       time: Feb 2023 - Dec 2023
@@ -90,7 +74,7 @@ experiences:
         - Organize workshops for improving students' technical skills 
         - Assist in managing the technical part of an event
         Previous programme positions: 
-          - Assistant Programe Manager for CTF Workshop : Introduction to Capture The Flag(CTF)
+          - Assistant Program Manager for CTF Workshop : Introduction to Capture The Flag(CTF)
           - Program Manager for CTF : Race for Flag Competition
     - role: Meeting Coordinator
       time: September 2023
