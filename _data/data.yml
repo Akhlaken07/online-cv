@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Muhammad Azhad bin Muhammad Nasim
-    tagline: Cyber Security & Front End Developer
+    tagline: Cyber Security & Front End Development
     avatar: azhad-profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -49,11 +49,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Driven researcher with 13 years of experience in teaching programming courses and conducting research in 
-      visual programming, computer science pedogogy and learning analytics.
-      Skilled at developing office automation applications and automating various manual processes (Paperwork).
-      Developed courses aligned with current technology used in IT industry.
-      Excellent in written and oral communication skills.
+        As a passionate student studying cybersecurity and fascinated by front-end development, 
+        I'm excited about the career opportunities ahead. I have a mix of technical skills, problem-solving abilities, 
+        and a creative mindset. My goal is to work at the crossroads of cybersecurity and front-end development, 
+        using my knowledge to improve security measures and create user-friendly interfaces. 
+        I'm eager to bring fresh ideas to the ever-changing world of cybersecurity while making websites and applications 
+        more intuitive for users.
      
 education:
     - degree: Bachelor of Information Technology (Honours)
@@ -85,7 +86,7 @@ experiences:
           - Paste notice of meeting
           - Maintaning PA system
           - Handling registration of residents
-    - role: CTF Player
+    - role: CTF Participation
       details: |
         - Participated in Curtin Malaysia Capture The Flag (CTF) Hackaton
         - Participated in Battle of Hackers Capture The Flag (CTF)
