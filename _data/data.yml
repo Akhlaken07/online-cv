@@ -96,13 +96,12 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Below are the list of research and application development projects. Most of the research projects are funded by 
-      International Islamic University Malaysia and Ministry of Higher Education, Malaysia. Most of the application 
-      development projects are self-initiative projects.
+      Below are the list of application development projects. Most of the application 
+      development projects are assignments and self-initiative projects.
     assignments:
       - title: FRGS, 2022
         link: "#"
-        tagline: "Data Mining of Malay Medical Manuscripts and Construction of a Database of Malay Medicine With Interventions for Covid-19-like Symptoms as a Focus - Co-Researcher Fundamental Research Grant Scheme (FRGS)"
+        tagline: "Test"
     
         
 skills:
@@ -110,16 +109,10 @@ skills:
 
     toolset:
       - name: Javascript & jQuery
-        level: 90%
+        level: 78%
 
       - name: HTML5 & CSS
         level: 90%
-
-      - name: PHP & MySQL
-        level: 50%
-        
-      - name: Laravel
-        level: 60%
         
       - name: Flutter
         level: 80%
