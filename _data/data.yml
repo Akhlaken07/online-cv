@@ -92,6 +92,17 @@ experiences:
         - Participated in Battle of Hackers Capture The Flag (CTF)
         - Participated in Wargames.my Capture The Flag (CTF)
         - Participated in Online rENTAS CTF Competition
+        
+projects:
+    title: Projects
+    intro: >
+      Below are the list of research and application development projects. Most of the research projects are funded by 
+      International Islamic University Malaysia and Ministry of Higher Education, Malaysia. Most of the application 
+      development projects are self-initiative projects.
+    assignments:
+      - title: FRGS, 2022
+        link: "#"
+        tagline: "Data Mining of Malay Medical Manuscripts and Construction of a Database of Malay Medicine With Interventions for Covid-19-like Symptoms as a Focus - Co-Researcher Fundamental Research Grant Scheme (FRGS)"
     
         
 skills:
