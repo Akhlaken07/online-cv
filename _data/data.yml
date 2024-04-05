@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Muhammad Azhad bin Muhammad Nasim
-    tagline: Cyber Security & Front End Developer
+    tagline: Cyber Security & Full Stack Developer
     avatar: 1712009123577.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -96,12 +96,15 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Below are the list of application development projects. Most of the application 
+      Below are the list of development projects. Most of the 
       development projects are assignments and self-initiative projects.
     assignments:
-      - title: FRGS, 2022
+      - title: Book Tracking System
         link: "#"
-        tagline: "Test"
+        tagline: "A mobile application where bookworm can keep track on books they are reading"
+      - title: Student Details Registration
+        link: "#"
+        tagline: "Web development where admin can enter new student details. This project also come with an authentication where to enter the registration form, the admin need to be validated first"
     
         
 skills:
