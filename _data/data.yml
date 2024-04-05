@@ -104,7 +104,7 @@ projects:
         tagline: "A mobile application where bookworm can keep track on books they are reading"
       - title: Student Details Registration
         link: "#"
-        tagline: "Web development where admin can enter new student details. This project also come with an authentication where to enter the registration form, the admin need to be validated first"
+        tagline: "Web development that help in learning the basic of web application security where user need to build an authentication before admin are able to enter the new student details."
     
         
 skills:
